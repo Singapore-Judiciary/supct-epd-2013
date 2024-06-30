@@ -122,7 +122,7 @@ Form 25. \[deleted] Schedule of Assets
 
 ## Appendix H : Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-[REGISTRAR, DEPUTY REGISTRAR, SENIOR ASSISTANT REGISTRARS, DIVISIONAL REGISTRARS AND DEPUTY DIVISIONAL REGISTRARS](https://github.com/opendocsg/opendoc-supreme-court-practice-directions/raw/staging/downloads/Appendix\_H/Appendix\_H.pdf)
+[REGISTRAR, DEPUTY REGISTRAR, SENIOR ASSISTANT REGISTRARS, DIVISIONAL REGISTRARS AND DEPUTY DIVISIONAL REGISTRARS](https://github.com/opendocsg/opendoc-supreme-court-practice-directions/raw/master/downloads/Appendix\_H/PD%202013%20Appendix%20H.pdf)
 
 ## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
 
