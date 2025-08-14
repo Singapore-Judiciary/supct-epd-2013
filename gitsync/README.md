@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 01 NOVEMBER 2024'
+description: 'LAST UPDATED: 15 AUGUST 2025'
 ---
 
 # Supreme Court Practice Directions 2013 (To be read with the Rules of Court (Cap. 322, R 5, 2014 Rev

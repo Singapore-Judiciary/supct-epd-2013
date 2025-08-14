@@ -4,6 +4,8 @@
 >
 > 82\. Requests for further arguments before the Judge or Registrar
 >
+> 82A. Submissions by leading and junior assisting counsel
+>
 > 83\. Civil appeals before the General Division from the State Courts
 >
 > * Appeals under Order 55D of the Rules of Court
@@ -95,6 +97,20 @@
 (2) A copy of the request should be furnished to all parties concerned.
 
 (3) All requests should be addressed to the Registrar.
+
+### 82A. Submissions by leading and junior assisting counsel <a href="#id-82-requests-for-further-arguments-before-the-judge-or-registrar" id="id-82-requests-for-further-arguments-before-the-judge-or-registrar"></a>
+
+(1)&#x20;Notwithstanding the provisions of paragraph 19 of these Practice Directions, in the event that a party is represented by more than one counsel in the conduct of proceedings under this Part, junior assisting counsel are ordinarily expected to make part of the submissions at any oral hearing.
+
+(2)&#x20;Lead counsel is to inform the Court at the start of the oral hearing which issues would be addressed by the lead counsel or the junior assisting counsel.
+
+(3)&#x20;Unless otherwise directed by the Court,
+
+> (a)> &#x20;counsel should ensure that he or she confines himself or herself to the issues to be addressed and that there is no overlap in the issues being dealt with by different counsel for the same party; and
+>
+> (b)> &#x20;counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party.
+
+(4)&#x20;Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.
 
 ### 83. Civil appeals before the General Division from the State Courts <a href="#id-83-civil-appeals-before-the-general-division--from-the-state-courts" id="id-83-civil-appeals-before-the-general-division--from-the-state-courts"></a>
 
