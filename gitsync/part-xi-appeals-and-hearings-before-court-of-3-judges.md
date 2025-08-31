@@ -226,13 +226,25 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969 and notwit
 
 (4A) The Chief Justice has further directed that the Appellant’s Case and the Respondent’s Case in civil matters before the Court of Appeal and civil matters before the Appellate Division shall not exceed 50 pages unless leave of the Court of Appeal or the Appellate Division (as the case may be) is obtained. The Appellant’s Reply, if any, shall not exceed 30 pages unless leave of the Court of Appeal or the Appellate Division (as the case may be) is obtained. The process for obtaining leave of the Court of Appeal or the Appellate Division may be found in paragraph 87A of these Practice Directions. Any Appellant’s Case, Respondent’s Case, and Appellant’s Reply in breach of this requirement will be rejected. The cover page and backing page shall be excluded from any computation of the number of pages. Parties are reminded to comply with Order 56A, Rule 9 and Order 57, Rule 9A of the Rules of Court (as the case may be) in respect of the preparation of their Cases, and the Appellant’s Reply, as well as the following requirements:
 
-> (a) all pages should be paginated, with the page numbers corresponding to the Portable Document Format version of the Case or the Appellant’s Reply, as the case may be;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the Case or the Appellant’s Reply, as the case may be;
 >
-> (b) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 >
-> (c) the print of every page shall be double-spaced; and
+> (c) the print of every page shall be double-spaced, except for:
 >
-> (d) every page shall have a margin on all 4 sides, each of at least 35 mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (d) every page shall have a margin on all 4 sides, each of at least 35 mm in width; and
+>
+> (e) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (4B) Parties are to take note of the following when preparing their Cases:
 
@@ -240,7 +252,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969 and notwit
 >
 > (b) Any document referred to in a Case should be suitably described in such a manner as to allow the court to identify the nature of the document. Parties’ attention is drawn to paragraph 89(5A) for illustrations of suitable descriptions.
 
-(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document _together_ with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the core bundle is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
+(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. All pages in these documents (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated in the manner provided for in sub-paragraph (4A), the page number shall be inserted at the centre top of the page, and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the core bundle is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
 (6) When the core bundles and supplemental core bundles are tendered at the Legal Registry of the Supreme Court pursuant to paragraph 88(1), the Legal Registry staff will state on the top right hand corner of the bundle the exact amount of Court fees payable under Order 90B. The parties should then pay the Court fees as indicated.
 
@@ -262,7 +274,7 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 >
 > (b) Where the appeal is to be heard by a 2 Judge Court, 3 hard copies of the Cases and the Appellant’s Reply (if any), the core bundles and supplemental core bundles of documents (if any) shall be tendered.
 
-(2) The directions set out in paragraph 89 apply in relation to the preparation of the appeal bundles in hard copy, which may be printed on one side or both sides of each page.
+(2) The directions set out in paragraph 89 apply in relation to the preparation of the appeal bundles in hard copy, and parties are strongly encouraged to print hard copies on both sides of each page.
 
 (3) In addition to the hard copies, the appellant and respondent are required to tender soft copies of the following documents in Portable Document Format (PDF) at the same time in a CD-ROM:
 
@@ -344,7 +356,7 @@ _**Pagination in soft copy**_
 
 > (a) The first page of each volume shall state the title and the Civil Appeal number of the appeal, the names of the parties, the volume number, a short description of its contents, the names and addresses of the appellants and respondents, and the date of filing.
 >
-> (b) The page number of each volume of the appeal records must correspond to the page number in the Portable Document Format (PDF) version of that volume. Each separate volume of the appeal records shall start at page 1 and every page shall be numbered consecutively. If separator sheets are used, these shall also be numbered.
+> (b) All pages of the appeal records (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated in the manner provided for in paragraph 87(4A)(a), and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 _**Table of contents**_
 
@@ -374,7 +386,7 @@ _**Core bundles – Order 56A, Rule 8(3) and Order 57, Rule 9(2A)**_
 >
 > (b) Volume II – all other documents referred to in Order 56A, Rule 8(3) or Order 57, Rule 9(2A) (as the case may be), and an index of the documents included therein.
 
-Each volume of the core bundle shall begin at page 1, every page shall be numbered and the page number of the core bundle shall correspond to the page number of the PDF version.
+Each volume of the core bundle shall start at page 1, every page in that volume shall be numbered consecutively, and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated in the manner provided for in paragraph 87(4A)(a).
 
 _**Index of core bundles and supplemental core bundles**_
 
@@ -472,7 +484,7 @@ _**Inclusion of sealed documents in appeal bundles**_
 
 (2) The term “skeletal arguments” includes “skeletal submissions”, “written submissions”, “written arguments” and all other variant terms by which such documents are known.
 
-(3) Counsel should submit skeletal arguments for the hearing of the appeal or matter and give a copy to counsel for the other parties. Hard copies of skeletal arguments may be printed on one side or both sides of each page.
+(3) Counsel should submit skeletal arguments for the hearing of the appeal or matter and give a copy to counsel for the other parties.&#x20;
 
 (4) Skeletal arguments are abbreviated notes of the arguments that will be presented. Skeletal arguments are not formal documents and do not bind parties. They are a valuable tool to the Judges and are meant to expedite the hearing of the appeal. These notes should comply with the following requirements:
 
@@ -482,13 +494,25 @@ _**Inclusion of sealed documents in appeal bundles**_
 >
 > (c) for civil appeals and any other civil matters before the Court of Appeal, and civil appeals and any other civil matters before the Appellate Division, the final paragraph(s) should contain the parties' submissions on costs, stating (with reasons) the appropriate costs order and the quantum (including the disbursements incurred) that should be awarded by the Court;
 >
-> (d) all pages should be paginated, with the first page (not including any cover page) numbered as “Page 1”;
+> (d) all pages (including, where applicable, table of contents, separator sheets and exhibit sheets) shall be paginated, with the first page (not including any cover page) numbered as “Page 1”;
 >
-> (e) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (e) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 >
-> (f) the print of every page shall be double-spaced; and
+> (f) the print of every page shall be double-spaced, except for:
 >
-> (g) every page shall have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (g) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (h) parties are strongly encouraged to print hard copies on both sides of each page.
 
 _**Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division**_
 
@@ -522,17 +546,29 @@ _**Application of this paragraph to Court of 3 Judges**_
 
 (3) Unless otherwise provided by any written law or unless otherwise directed, parties are to file and serve written submissions (if any) in respect of the application before the Court of Appeal or the Appellate Division (as the case may be) within 7 days after the date the reply affidavit is due for filing and service. Parties shall include in the final paragraph(s) of the written submissions their submissions on costs, stating (with reasons) the appropriate costs order and the quantum (including the disbursements incurred) that should be awarded by the Court.
 
-(4) The written submissions should comply with the following requirements:
+(4) The written submissions shall comply with the following requirements:
 
 > (a) they should not exceed 20 pages, excluding the cover page and the backing page;
 >
-> (b) all pages should be paginated, with the first page (not including any cover page) numbered as “Page 1”;
+> (b) all pages (including, where applicable, table of contents, separator sheets and exhibit sheets) shall be paginated, with the first page (not including any cover page) numbered as “Page 1”;
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page shall be double-spaced; and
+> (d) the print of every page shall be double-spaced, except for:
 >
-> (e) every page shall have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (e) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1) or section 37(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
@@ -548,17 +584,29 @@ shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 
 (2) Any written submissions in respect of an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the Appellate Division shall be in Form 32A or 32B of Appendix A of these Practice Directions.
 
-(3) The written submissions mentioned in sub-paragraphs (1) and (2) should comply with the following requirements:
+(3) The written submissions mentioned in sub-paragraphs (1) and (2) shall comply with the following requirements:
 
 > (a) they should not exceed 12 pages, excluding the cover page and the backing page;
 >
-> (b) all pages should be paginated, with the first page (not including any cover page) numbered as “Page 1”;
+> (b) all pages (including, where applicable, table of contents, separator sheets and exhibit sheets) shall be paginated, with the first page (not including any cover page) numbered as “Page 1”;
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page shall be double-spaced; and
+> (d) the print of every page shall be double-spaced, except for:
 >
-> (e) every page shall have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (e) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (4) If no written submissions are ﬁled in the Court of Appeal or the Appellate Division by the timelines prescribed by Order 57, Rule 2A or Order 56A, Rule 3 of the Rules of Court (as the case may be), the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any written submissions and may, in accordance with section 55(1) or section 37(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 

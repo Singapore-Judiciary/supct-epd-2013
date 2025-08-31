@@ -224,17 +224,29 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 >
 > (d) a summary of arguments.
 
-(6) The applicant’s skeletal submissions should be in the following format:
+(6) The applicant’s skeletal submissions shall be in the following format:
 
-> (a) all pages should be paginated;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively;
 >
 > (b) the skeletal submissions should not exceed 10 pages (excluding the cover page and backing page);
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page must be double-spaced; and
+> (d) the print of every page shall be double-spaced, except for:
 >
-> (e) every page must have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (e) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 ### 13. Attendance of solicitors in Court and mentioning on behalf of other solicitors <a href="#id-13-attendance-of-solicitors-in-court-and-mentioning-on-behalf-of-other-solicitors" id="id-13-attendance-of-solicitors-in-court-and-mentioning-on-behalf-of-other-solicitors"></a>
 

@@ -30,15 +30,15 @@ Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs 
 
 ### 94. Form of bill of costs <a href="#id-94--form-of-bill-of-costs" id="id-94--form-of-bill-of-costs"></a>
 
-The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 59 of the Rules of Court. In addition, solicitors are to abide by the following requirements:
+The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 59 of the Rules of Court. In addition, solicitors shall abide by the following requirements:
 
 _**Margin**_
 
-(1) A blank margin not less than 10 mm wide on all four sides is required for each page of the bill of costs.
+(1) Every page shall have a margin on all 4 sides, each of at least 10 mm in width.
 
 _**Pagination**_
 
-(2) Every page of a bill of costs shall be paginated consecutively at the centre of the top of the page.
+(2) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 _**Format**_
 

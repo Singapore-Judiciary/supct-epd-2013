@@ -64,7 +64,17 @@ _**Release of witness upon completion of evidence**_
 
 ### 57. Form of affidavits <a href="#id-57-form-of-affidavits" id="id-57-form-of-affidavits"></a>
 
-(1) Affidavits shall have a blank margin not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and double-spaced.
+(1) Affidavits shall have a margin on all 4 sides each of at least 35mm in width. The text of affidavits (as opposed to the exhibits) shall be printed or typed, and the print of every page of the text of affidavits (as opposed to the exhibits) shall be double-spaced, except for:
+
+> (a) cover pages and tables of contents;
+>
+> (b) paragraph and section headings or sub-headings;
+>
+> (c) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+>
+> (d) extracts of transcripts,
+
+which may be single-spaced.
 
 (2) When filing affidavits for use during a hearing of an interlocutory application, the number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
@@ -88,11 +98,13 @@ _**Release of witness upon completion of evidence**_
 > >
 > > (ii) the document name that is selected in the electronic filing service for an affidavit for ancillary matters hearing shall be “Affidavit for AM”.
 
-(5) Every page of the affidavit (_including_ separators and exhibits) shall be paginated consecutively, and the page number shall be inserted at the centre top of the page.
+(5) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 (6) Every affidavit which is filed in conjunction with a summons (but not those filed in conjunction with an originating summons) must have endorsed at the top left-hand corner of the first page of the affidavit the entered number of the summons.
 
-(7) Hard copies of affidavits may be printed on one side or both sides of each page.
+(7) Parties are strongly encouraged to print hard copies on both sides of each page.
+
+(8) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent.
 
 ### 58. Non-documentary exhibits to affidavits <a href="#id-58-non-documentary-exhibits-to-affidavits" id="id-58-non-documentary-exhibits-to-affidavits"></a>
 
@@ -122,7 +134,7 @@ _**More than 10 documentary exhibits**_
 
 _**Pagination**_
 
-(3) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right hand corner of each page, following from the page numbers of the affidavit (i.e. the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (PDF) version that is filed through the Electronic Filing Service.
+(3) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 _**Dividing sheets**_
 
@@ -166,7 +178,7 @@ _**References to exhibits in other affidavits**_
 
 _**Related documents**_
 
-(8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+(8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in the manner provided for in sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 ### 59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link <a href="#id-59a-swearing-and-signing-of-affidavits-in-singapore-before-and-completing-of-attestation-by-commissi" id="id-59a-swearing-and-signing-of-affidavits-in-singapore-before-and-completing-of-attestation-by-commissi"></a>
 

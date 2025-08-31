@@ -1,5 +1,7 @@
 # Part VIII: Documents and Authorities For Use In Court
 
+> 68A. Formatting requirements for documents filed in or submitted to the General Division of the High Court
+>
 > 69\. Filing of documents and authorities for use in Court
 >
 > * Bundle of authorities
@@ -30,17 +32,43 @@
 > * The neutral citation system for local judgments
 > * Ancillary provisions
 
+### 68A. Formatting requirements for documents filed in or submitted to the General Division of the High Court <a href="#id-70-bundle-of-documents-filed-on-setting-down" id="id-70-bundle-of-documents-filed-on-setting-down"></a>
+
+(1) Pleadings, the text of affidavits (as opposed to the exhibits), opening statements and written submissions filed in or submitted to the General Division of the High Court shall comply with the following requirements:
+
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively;
+>
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
+>
+> (c) the print of every page shall be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (d) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (e) parties are strongly encouraged to print hard copies on both sides of each page.
+
+(2) Sub-paragraph (1) does not apply to any documents for which specific directions on formatting are provided for in these Practice Directions.
+
 ### 69. Filing of documents and authorities for use in Court <a href="#id-70-bundle-of-documents-filed-on-setting-down" id="id-70-bundle-of-documents-filed-on-setting-down"></a>
 
 (1) Subject to any directions in these Practice Directions to the contrary, in particular paragraphs 71(3) and 104, all documents for use at any hearing in Court must be filed using the Electronic Filing Service at least 1 clear day in advance of the hearing. These documents include written submissions, skeletal arguments, bundles of documents, bundles of pleadings, bundles of affidavits, core bundles and all opening statements.
 
-(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to use paper documents during the hearing. The paper documents may be printed on one side or both sides of each page. The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must also give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court’s case file.
+(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to use paper documents during the hearing. Parties are strongly encouraged to print hard copies on both sides of each page. The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must also give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court’s case file.
 
 _**Bundle of authorities**_
 
 (3) Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file bundles of authorities and may instead use these for hearings in paper form according to the directions in this Part.
 
-(4) The party using the paper copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. The paper copy of the bundle of authorities may be printed on one side or both sides of each page. The Court will neither retain nor undertake to produce for hearings the paper copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the paper copy of the bundle of authorities for his or her own reference. The paper copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
+(4) The party using the paper copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. Parties are strongly encouraged to print hard copies on both sides of each page. The Court will neither retain nor undertake to produce for hearings the paper copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the paper copy of the bundle of authorities for his or her own reference. The paper copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
 
 (5) Counsel must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements shall also apply to paragraphs 71 to 73 of these Practice Directions:
 
@@ -72,7 +100,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 >
 > (b) The name given to each bookmark should be the same as the table of contents.
 >
-> (c) The page number of each printed bundle must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.
+> (c) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 ### 70. Bundle of documents filed on setting down <a href="#id-70-bundle-of-documents-filed-on-setting-down" id="id-70-bundle-of-documents-filed-on-setting-down"></a>
 
@@ -102,7 +130,7 @@ _**Directions for electronic creation and filing of bundles of documents**_
 >
 > (c) The various PDF documents should be arranged chronologically or in some logical order.
 >
-> (d) The page number of each bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.
+> (d) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 (5) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle shall be created in Portable Document Format (PDF). The electronic bundle may contain:
 
@@ -132,7 +160,7 @@ _**Only opening statement to be filed through the Electronic Filing Service**_
 
 (5) Payment of the Court fees on such documents should be made before the documents are filed in Court in compliance with Order 34, Rule 3A. As such, the hard copy of documents tendered to Court should show, on the front page, the amount of Court fees paid on the document.
 
-(6) The electronic copy must tally in all respects with the hard copy, as it will be uploaded into the case file by the Legal Registry staff and will form part of the electronic case file. The page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Unnecessarily large electronic files should not be submitted. Parties should adhere as far as possible to the guidelines set out on the Electronic Filing Service website ([www.elitigation.sg)](https://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
+(6) The electronic copy must tally in all respects with the hard copy, as it will be uploaded into the case file by the Legal Registry staff and will form part of the electronic case file. All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.Unnecessarily large electronic files should not be submitted. Parties should adhere as far as possible to the guidelines set out on the Electronic Filing Service website ([www.elitigation.sg)](https://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
 
 (7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Legal Registry in hard copy. It shall not be necessary to pay any additional Court fees in respect of the hard copy in such circumstances.
 
@@ -150,7 +178,7 @@ _**Timeline for filing documents**_
 
 _**Bundles of documents**_
 
-(11) The bundle of documents required to be filed by Order 34, Rule 3A should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
+(11) The bundle of documents required to be filed by Order 34, Rule 3A shall be paginated in the manner provided for in sub-paragraph (6) and parties are strongly encouraged to print hard copies on both sides of each page.
 
 > (a) An index of contents of each bundle in the manner and form set out in Form 10 of Appendix A of these Practice Directions must also be furnished. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 >
@@ -172,7 +200,7 @@ _**Bundles of documents**_
 
 _**Bundles of authorities**_
 
-(12) In addition to requirements set out in paragraph 69(5) of these Practice Directions, the bundle of authorities must:
+(12) In addition to requirements set out in paragraph 69(5) of these Practice Directions, the bundle of authorities shall:
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 >
@@ -182,7 +210,7 @@ _**Bundles of authorities**_
 >
 > (d) have flags to mark out the authorities. Such flags shall bear the appropriate indicium by which the authority is referred to. Flags shall be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another;
 >
-> (e) be paginated consecutively at the top right hand corner of each page. Pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle; and
+> (e) be paginated in the manner provided for in sub-paragraph (6); and
 >
 > (f) contain an index of the authorities in that bundle and be appropriately flagged for easy reference; and
 >
@@ -212,13 +240,23 @@ _**Opening statements**_
 >
 > (d) The following format shall be adhered to when preparing opening statements:
 >
-> > (i) all pages shall be paginated, with the first page (including the cover page) numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
+> > (i) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated in the manner provided for in sub-paragraph (6);
 > >
-> > (ii) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> > (ii) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
 > >
-> > (iii) the print of every page shall be double spaced;
+> > (iii) the print of every page shall be double-spaced, except for:
 > >
-> > (iv) each page may be printed on one side or both sides; and
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > (C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > (D) extracts of transcripts,
+> >
+> > which may be single-spaced;
+> >
+> > (iv) parties are strongly encouraged to print hard copies on both sides of each page; and
 > >
 > > (v) every page shall have a margin on all 4 sides, each of at least 35 mm in width.
 >
@@ -232,7 +270,7 @@ _**Opening statements**_
 
 (2) In all criminal proceedings and civil and criminal appeals heard in open Court in the Court of Appeal, all civil appeals heard in open Court in the Appellate Division, as well as all disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act 1966 and the Medical Registration Act 1997 which are heard by a Court of 3 Judges, counsel shall submit a soft copy of the bundle of authorities in Adobe Portable Document Format (PDF) together with the other documents required to be submitted under paragraph 88(3).
 
-(3) With regard to soft copy bundles of authorities, the requirements set out in paragraphs 69(5), 71(12)(a), 71(12)(b) and 71(13) shall be complied with. The soft copy bundle of authorities shall contain electronic bookmarks to each case therein, bearing the name of each of the cases for easy electronic access. The page numbers of any hard copy bundle of authorities must correspond to the page numbers in the Portable Document Format (PDF) version.
+(3) With regard to soft copy bundles of authorities, the requirements set out in paragraphs 69(5), 71(12)(a), 71(12)(b) and 71(13) shall be complied with. The soft copy bundle of authorities shall contain electronic bookmarks to each case therein, bearing the name of each of the cases for easy electronic access. All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated in the manner provided for in paragraph 71(12).
 
 ### 73. Hearings in Chambers <a href="#id-73-hearings-in-chambers" id="id-73-hearings-in-chambers"></a>
 
