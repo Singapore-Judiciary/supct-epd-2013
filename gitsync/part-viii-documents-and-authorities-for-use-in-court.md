@@ -100,7 +100,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 >
 > (b) The name given to each bookmark should be the same as the table of contents.
 >
-> (c) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
+> (c) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 ### 70. Bundle of documents filed on setting down <a href="#id-70-bundle-of-documents-filed-on-setting-down" id="id-70-bundle-of-documents-filed-on-setting-down"></a>
 
