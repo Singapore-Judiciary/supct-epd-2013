@@ -40,11 +40,11 @@
 
 ### 101. Establishment of Electronic Filing Service and appointment of electronic filing service provider <a href="#id-101--establishment-of-electronic-filing-service-and-appointment-of-electronic-filing-service-provide" id="id-101--establishment-of-electronic-filing-service-and-appointment-of-electronic-filing-service-provide"></a>
 
-In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of Court, the Registrar, with the approval of the Chief Justice, hereby establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at <[www.elitigation.sg](https://www.elitigation.sg)> and appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
+In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of Court, the Registrar, with the approval of the Chief Justice, hereby establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at <[www.elitigation.sg](https://www.elitigation.sg)>, and appoints an Electronic Filing Service provider for this service whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 102. Appointment of agent to establish service bureau <a href="#id-102--appointment-of-agent-to-establish-service-bureau" id="id-102--appointment-of-agent-to-establish-service-bureau"></a>
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar has appointed CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable.
+Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar has appointed an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable, whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 103. Registered users and authorised users <a href="#id-102--appointment-of-agent-to-establish-service-bureau" id="id-102--appointment-of-agent-to-establish-service-bureau"></a>
 
