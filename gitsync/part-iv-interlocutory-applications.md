@@ -165,7 +165,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 
 ### 42. _Mareva_ injunctions and search _orders_ <a href="#id-42-mareva-injunctions-and-search-orders" id="id-42-mareva-injunctions-and-search-orders"></a>
 
-(1) Pursuant to Order 32, Rule 9 of the Rules of Court, the Honourable the Chief Justice has directed that applications for _Mareva_ injunctions and for search orders, whether made on an _ex parte_ or _inter partes_ basis, should be heard by a Judge in person. For the avoidance of doubt, all other _ex parte_ applications for interim injunctions may be heard by a Registrar.
+(1) Pursuant to Order 32, Rule 9 of the Rules of Court, the Honourable the Chief Justice has directed that unless otherwise directed, contested applications for _Mareva_ injunctions and applications for search orders, whether made on an _ex parte_ or _inter partes_ basis, should be heard by a Judge in person and all other applications for interim injunctions may be heard by a Registrar.
 
 (2) Applicants for _Mareva_ injunctions and search orders are required to prepare their orders in accordance with the following forms in Appendix A of these Practice Directions:
 
