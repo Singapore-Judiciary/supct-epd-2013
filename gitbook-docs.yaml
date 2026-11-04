@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Supreme Court Practice Directions 2013
+  structure:
+    - type: space
+      key: space-1
+      title: Supreme Court Practice Directions 2013
+      path: supreme-court-practice-directions-2013
+      default: true
+      content:
+        directory: ./gitsync
